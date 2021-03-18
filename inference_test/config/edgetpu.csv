@@ -1,0 +1,5 @@
+type,name,id
+mobilenet,mobilenet_int8_edgetpu.tflite,https://drive.google.com/file/d/1zJ2H71WJadE6W-sl4ez95lO1X1ccDYfD/view?usp=sharing
+mobilenet,mobiledet_int8_edgetpu.tflite,https://drive.google.com/file/d/1m2qnlILjIre3C7lYg-l3_vzzTNIV4vnt/view?usp=sharing
+yolo4,tiny_yolov4_int8_edgetpu.tflite,https://drive.google.com/file/d/1p4813g4ZUw2ZR93MB8S1mS4fj5UWjohb/view?usp=sharing
+yolo5,yolov5s_int8_edgetpu.tflite,https://drive.google.com/file/d/1BnLLHIVzFYhepBBfgKXwVtc8W-qeuSYq/view?usp=sharing

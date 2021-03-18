@@ -1,0 +1,276 @@
+
+Model: mobilenet
+Date: 07/10/2020 13:13:36
+	cute_dog_mobilenet_result.jpg	427.39 ms
+	pizza_and_cake_mobilenet_result.jpg	1265.24 ms
+	profile_picture_mobilenet_result.jpg	990.52 ms
+	woman_with_dog_mobilenet_result.jpg	920.92 ms
+
+Model: efficientdet
+Date: 07/10/2020 13:14:05
+	cute_dog_efficientdet_result.jpg	5345.63 ms
+	pizza_and_cake_efficientdet_result.jpg	967.9 ms
+	profile_picture_efficientdet_result.jpg	972.38 ms
+	woman_with_dog_efficientdet_result.jpg	925.98 ms
+
+Model: yolo
+Date: 07/10/2020 13:14:57
+	cute_dog_yolo_result.jpg	911.09 ms
+	pizza_and_cake_yolo_result.jpg	659.68 ms
+	profile_picture_yolo_result.jpg	807.08 ms
+	woman_with_dog_yolo_result.jpg	727.93 ms
+
+Model: yolo
+Date: 07/10/2020 13:19:36
+	cute_dog_yolo_result.jpg	467.02 ms
+	pizza_and_cake_yolo_result.jpg	601.52 ms
+	profile_picture_yolo_result.jpg	658.92 ms
+	woman_with_dog_yolo_result.jpg	789.97 ms
+
+Model: mobilenet
+Date: 07/10/2020 13:19:56
+	cute_dog_mobilenet_result.jpg	359.74 ms
+	pizza_and_cake_mobilenet_result.jpg	421.88 ms
+	profile_picture_mobilenet_result.jpg	464.18 ms
+	woman_with_dog_mobilenet_result.jpg	621.24 ms
+
+Model: efficientdet
+Date: 07/10/2020 13:20:11
+	cute_dog_efficientdet_result.jpg	3863.53 ms
+	pizza_and_cake_efficientdet_result.jpg	1939.71 ms
+	profile_picture_efficientdet_result.jpg	984.58 ms
+	woman_with_dog_efficientdet_result.jpg	944.62 ms
+
+Model: efficientdet
+Date: 07/10/2020 13:41:55
+	cute_dog_efficientdet_result.jpg	7491.0 ms
+	pizza_and_cake_efficientdet_result.jpg	1705.66 ms
+	profile_picture_efficientdet_result.jpg	1713.31 ms
+	woman_with_dog_efficientdet_result.jpg	1529.81 ms
+
+Model: efficientdet
+Date: 07/10/2020 13:46:00
+	cute_dog_efficientdet_result.jpg	4554.13 ms
+	pizza_and_cake_efficientdet_result.jpg	1730.09 ms
+	profile_picture_efficientdet_result.jpg	1006.93 ms
+	woman_with_dog_efficientdet_result.jpg	993.89 ms
+
+Model: efficientdet
+Date: 07/10/2020 13:52:48
+	cute_dog_efficientdet_result.jpg	4443.8 ms
+	pizza_and_cake_efficientdet_result.jpg	1810.77 ms
+	profile_picture_efficientdet_result.jpg	936.99 ms
+	woman_with_dog_efficientdet_result.jpg	1191.86 ms
+
+Model: mobilenet
+Date: 07/10/2020 14:37:39
+	cute_dog_mobilenet_result.jpg	1235.98 ms
+	pizza_and_cake_mobilenet_result.jpg	965.54 ms
+	profile_picture_mobilenet_result.jpg	1029.79 ms
+	woman_with_dog_mobilenet_result.jpg	1008.49 ms
+
+Model: yolo
+Date: 07/10/2020 14:38:03
+	cute_dog_yolo_result.jpg	1089.01 ms
+	pizza_and_cake_yolo_result.jpg	720.48 ms
+	profile_picture_yolo_result.jpg	684.98 ms
+	woman_with_dog_yolo_result.jpg	714.53 ms
+
+Model: efficientdet
+Date: 07/10/2020 14:38:26
+	cute_dog_efficientdet_result.jpg	5940.7 ms
+	pizza_and_cake_efficientdet_result.jpg	1575.55 ms
+	profile_picture_efficientdet_result.jpg	1649.89 ms
+	woman_with_dog_efficientdet_result.jpg	1610.8 ms
+
+Model: efficientdet
+Date: 07/10/2020 14:44:26
+	cute_dog_efficientdet_result.jpg	6177.17 ms
+	pizza_and_cake_efficientdet_result.jpg	1702.49 ms
+	profile_picture_efficientdet_result.jpg	1665.3 ms
+	woman_with_dog_efficientdet_result.jpg	1683.96 ms
+
+Model: efficientdet
+Date: 07/10/2020 15:01:37
+	efficientdet_result-cute_dog.jpg	6146.79 ms
+	efficientdet_result-pizza_and_cake.jpg	1649.65 ms
+	efficientdet_result-profile_picture.jpg	1589.5 ms
+	efficientdet_result-woman_with_dog.jpg	1682.46 ms
+
+Model: mobilenet
+Date: 07/10/2020 15:08:52
+	mobilenet_result-cute_dog.jpg	1015.61 ms
+	mobilenet_result-pizza_and_cake.jpg	906.25 ms
+	mobilenet_result-profile_picture.jpg	980.01 ms
+	mobilenet_result-woman_with_dog.jpg	995.71 ms
+
+Model: efficientdet
+Date: 07/10/2020 15:08:57
+	efficientdet_result-cute_dog.jpg	1854.44 ms
+	efficientdet_result-pizza_and_cake.jpg	1991.4 ms
+	efficientdet_result-profile_picture.jpg	1864.51 ms
+	efficientdet_result-woman_with_dog.jpg	1509.11 ms
+
+Model: yolo
+Date: 07/10/2020 15:09:05
+	yolo_result-cute_dog.jpg	281.25 ms
+	yolo_result-pizza_and_cake.jpg	171.88 ms
+	yolo_result-profile_picture.jpg	204.47 ms
+	yolo_result-woman_with_dog.jpg	171.88 ms
+
+Model: mobilenet
+Date: 07/10/2020 15:37:11
+	mobilenet_result-cute_dog.jpg	2506.6 ms
+	mobilenet_result-pizza_and_cake.jpg	1807.86 ms
+	mobilenet_result-profile_picture.jpg	389.0 ms
+	mobilenet_result-woman_with_dog.jpg	333.98 ms
+
+Model: efficientdet
+Date: 07/10/2020 15:37:18
+	efficientdet_result-cute_dog.jpg	2748.25 ms
+	efficientdet_result-pizza_and_cake.jpg	2620.81 ms
+	efficientdet_result-profile_picture.jpg	3176.21 ms
+	efficientdet_result-woman_with_dog.jpg	3379.59 ms
+
+Model: yolo
+Date: 07/10/2020 15:37:30
+	yolo_result-cute_dog.jpg	482.53 ms
+	yolo_result-pizza_and_cake.jpg	497.67 ms
+	yolo_result-profile_picture.jpg	444.55 ms
+	yolo_result-woman_with_dog.jpg	369.0 ms
+
+Model: yolo
+Date: 07/10/2020 16:59:11
+
+Model: yolo
+Date: 07/10/2020 16:59:38
+	yolov4-tiny-fp16.tflite_result-cute_dog.jpg	1062.4 ms
+	yolov4-tiny-fp16.tflite_result-pizza_and_cake.jpg	822.53 ms
+	yolov4-tiny-fp16.tflite_result-profile_picture.jpg	795.79 ms
+	yolov4-tiny-fp16.tflite_result-woman_with_dog.jpg	784.81 ms
+
+Model: mobilenet
+Date: 07/10/2020 16:59:43
+	mobilenetV2.tflite_result-cute_dog.jpg	1148.26 ms
+	mobilenetV2.tflite_result-pizza_and_cake.jpg	223.41 ms
+	mobilenetV2.tflite_result-profile_picture.jpg	224.07 ms
+	mobilenetV2.tflite_result-woman_with_dog.jpg	234.17 ms
+
+Model: efficientdet
+Date: 07/10/2020 16:59:46
+	efficientdetD0.tflite_result-cute_dog.jpg	1682.59 ms
+	efficientdetD0.tflite_result-pizza_and_cake.jpg	1711.69 ms
+	efficientdetD0.tflite_result-profile_picture.jpg	1522.57 ms
+	efficientdetD0.tflite_result-woman_with_dog.jpg	1578.98 ms
+
+Model: yolo
+Date: 07/10/2020 16:59:53
+	yolov4.tflite_result-cute_dog.jpg	4541.08 ms
+	yolov4.tflite_result-pizza_and_cake.jpg	3650.2 ms
+	yolov4.tflite_result-profile_picture.jpg	3456.15 ms
+	yolov4.tflite_result-woman_with_dog.jpg	3492.99 ms
+
+Model: yolo
+Date: 07/10/2020 17:00:08
+	yolov4-fp16.tflite_result-cute_dog.jpg	4401.08 ms
+	yolov4-fp16.tflite_result-pizza_and_cake.jpg	3017.73 ms
+	yolov4-fp16.tflite_result-profile_picture.jpg	2966.51 ms
+	yolov4-fp16.tflite_result-woman_with_dog.jpg	2977.2 ms
+
+Model: yolo
+Date: 07/10/2020 17:00:22
+	yolov4-tiny.tflite_result-cute_dog.jpg	304.89 ms
+	yolov4-tiny.tflite_result-pizza_and_cake.jpg	215.55 ms
+	yolov4-tiny.tflite_result-profile_picture.jpg	187.39 ms
+	yolov4-tiny.tflite_result-woman_with_dog.jpg	204.67 ms
+
+Model: yolov4-tiny-fp16.tflite, type: yolo
+Date: 07/10/2020 17:05:11
+	yolov4-tiny-fp16_result-cute_dog.jpg	1609.16 ms
+	yolov4-tiny-fp16_result-pizza_and_cake.jpg	1127.51 ms
+	yolov4-tiny-fp16_result-profile_picture.jpg	1514.22 ms
+	yolov4-tiny-fp16_result-woman_with_dog.jpg	340.39 ms
+
+Model: mobilenetV2.tflite, type: mobilenet
+Date: 07/10/2020 17:05:18
+	mobilenetV2_result-cute_dog.jpg	431.82 ms
+	mobilenetV2_result-pizza_and_cake.jpg	287.27 ms
+	mobilenetV2_result-profile_picture.jpg	276.52 ms
+	mobilenetV2_result-woman_with_dog.jpg	319.79 ms
+
+Model: efficientdetD0.tflite, type: efficientdet
+Date: 07/10/2020 17:05:20
+	efficientdetD0_result-cute_dog.jpg	2106.4 ms
+	efficientdetD0_result-pizza_and_cake.jpg	1829.66 ms
+	efficientdetD0_result-profile_picture.jpg	2068.72 ms
+	efficientdetD0_result-woman_with_dog.jpg	1878.49 ms
+
+Model: yolov4.tflite, type: yolo
+Date: 07/10/2020 17:05:28
+	yolov4_result-cute_dog.jpg	4253.97 ms
+	yolov4_result-pizza_and_cake.jpg	3154.51 ms
+	yolov4_result-profile_picture.jpg	4289.74 ms
+	yolov4_result-woman_with_dog.jpg	3397.59 ms
+
+Model: yolov4-fp16.tflite, type: yolo
+Date: 07/10/2020 17:05:44
+	yolov4-fp16_result-cute_dog.jpg	5446.46 ms
+	yolov4-fp16_result-pizza_and_cake.jpg	4373.76 ms
+	yolov4-fp16_result-profile_picture.jpg	3468.2 ms
+	yolov4-fp16_result-woman_with_dog.jpg	3680.83 ms
+
+Model: yolov4-tiny.tflite, type: yolo
+Date: 07/10/2020 17:06:02
+	yolov4-tiny_result-cute_dog.jpg	304.15 ms
+	yolov4-tiny_result-pizza_and_cake.jpg	215.04 ms
+	yolov4-tiny_result-profile_picture.jpg	220.33 ms
+	yolov4-tiny_result-woman_with_dog.jpg	187.6 ms
+
+Model: yolov4-tiny-fp16.tflite, type: yolo
+Date: 07/10/2020 17:11:52
+	yolov4-tiny-fp16_result-cute_dog.jpg	1052.35 ms
+	yolov4-tiny-fp16_result-pizza_and_cake.jpg	904.4 ms
+	yolov4-tiny-fp16_result-profile_picture.jpg	785.83 ms
+	yolov4-tiny-fp16_result-woman_with_dog.jpg	837.43 ms
+
+Model: yolov4-tiny-fp16.tflite, type: yolo
+Date: 09/10/2020 09:45:04
+	yolov4-tiny-fp16_result-pizza_and_cake.jpg	944.29 ms
+	yolov4-tiny-fp16_result-runner_with_dog.jpg	835.63 ms
+	yolov4-tiny-fp16_result-cute_dog.jpg	832.32 ms
+	yolov4-tiny-fp16_result-profile_picture.jpg	832.41 ms
+
+Model: mobilenetV2.tflite, type: mobilenet
+Date: 09/10/2020 09:45:08
+	mobilenetV2_result-pizza_and_cake.jpg	251.16 ms
+	mobilenetV2_result-runner_with_dog.jpg	216.52 ms
+	mobilenetV2_result-cute_dog.jpg	216.78 ms
+	mobilenetV2_result-profile_picture.jpg	216.46 ms
+
+Model: efficientdetD0.tflite, type: efficientdet
+Date: 09/10/2020 09:45:10
+	efficientdetD0_result-pizza_and_cake.jpg	2041.5 ms
+	efficientdetD0_result-runner_with_dog.jpg	1635.31 ms
+	efficientdetD0_result-cute_dog.jpg	1636.38 ms
+	efficientdetD0_result-profile_picture.jpg	1636.76 ms
+
+Model: yolov4.tflite, type: yolo
+Date: 09/10/2020 09:45:18
+	yolov4_result-pizza_and_cake.jpg	10175.86 ms
+	yolov4_result-runner_with_dog.jpg	9606.92 ms
+	yolov4_result-cute_dog.jpg	9605.84 ms
+	yolov4_result-profile_picture.jpg	9603.35 ms
+
+Model: yolov4-fp16.tflite, type: yolo
+Date: 09/10/2020 09:46:01
+	yolov4-fp16_result-pizza_and_cake.jpg	10142.27 ms
+	yolov4-fp16_result-runner_with_dog.jpg	9592.77 ms
+	yolov4-fp16_result-cute_dog.jpg	9598.16 ms
+	yolov4-fp16_result-profile_picture.jpg	9600.0 ms
+
+Model: yolov4-tiny.tflite, type: yolo
+Date: 09/10/2020 09:46:41
+	yolov4-tiny_result-pizza_and_cake.jpg	926.33 ms
+	yolov4-tiny_result-runner_with_dog.jpg	845.14 ms
+	yolov4-tiny_result-cute_dog.jpg	835.06 ms
+	yolov4-tiny_result-profile_picture.jpg	834.76 ms

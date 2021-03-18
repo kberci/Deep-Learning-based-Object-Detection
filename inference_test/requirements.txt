@@ -1,0 +1,9 @@
+# Python 3.8
+googledrivedownloader==0.4
+seaborn==0.11.0
+numpy==1.18.5
+matplotlib==3.3.3
+pandas>=1.1.2
+pillow==8.0.0
+opencv-python>=4.4.0
+requests==2.24.0

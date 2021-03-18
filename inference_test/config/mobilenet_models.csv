@@ -1,0 +1,10 @@
+type,name,id
+mobilenet,tf1_ssdlite_v2_300x300.tflite,https://drive.google.com/file/d/16mE64mAGCjQWjcyDhQLSjOUBzjPLaNSm/view?usp=sharing
+mobilenet,tf1_ssd_v2_300x300.tflite,https://drive.google.com/file/d/19HRgmi5JaGlIFK8xKsersg4IN3ZX59h1/view?usp=sharing
+mobilenet,tf1_ssd_v2_mnasfpn_320x320.tflite,https://drive.google.com/file/d/1L7h8XoxV4gEJSt2AODkqXjNaH5srJQBL/view?usp=sharing
+mobilenet,tf1_ssd_v2_quantized_300x300.tflite,https://drive.google.com/file/d/1vWC3_Ncyl1g8k5w72B5bmF9RIJCoqgyG/view?usp=sharing
+mobilenet,tf1_ssd_v3_large_320x320.tflite,https://drive.google.com/file/d/1FG1DaahXOmjJVeBfo-NZKVFchKxIQ0M6/view?usp=sharing
+mobilenet,tf1_ssd_v3_small_320x320.tflite,https://drive.google.com/file/d/1E0Jch9OKURprOdmMm4C8w88bnLo1DcpG/view?usp=sharing
+mobilenet,tf2_ssd_v2_320x320.tflite,https://drive.google.com/file/d/1WtPdzt6ZSqTD62mNb-8kWVDt1xTI94pT/view?usp=sharing
+mobilenet,tf2_ssd_v2_fpn_320x320.tflite,https://drive.google.com/file/d/13EbOqqgQ4Xft0Tc8h1F2AbqevKwC_1Wd/view?usp=sharing
+mobilenet,tf2_ssd_v2_fpn_640x640.tflite,https://drive.google.com/file/d/1iOC_HWNeSvxRqX4iamGABDz2JTqsvRZC/view?usp=sharing

@@ -1,0 +1,6 @@
+type,name,id
+mobilenet,mobilenetV2.tflite,https://drive.google.com/file/d/1fK4NZAyS58OmkxQMWYda0DruHyC2O0Gf/view?usp=sharing
+mobilenet,mobiledet.tflite,https://drive.google.com/file/d/1vll8kCcMtJwJB_kH7TaycH8BF9Cj9F0a/view?usp=sharing
+efficientdet,efficientdetD0.tflite,https://drive.google.com/file/d/1VsXgpSWGJyX5YDex7fp_r0dHiJppf1Jt/view?usp=sharing
+yolo4,yolov4-tiny.tflite,https://drive.google.com/file/d/1dZ5HIOYLr5Kp4uSNar8eJQumjqZVl47j/view?usp=sharing
+yolo5,yolov5s.tflite,https://drive.google.com/file/d/1l3FcBdeTFeSn8xd5z6-mpOeNloYTAqWp/view?usp=sharing

@@ -1,0 +1,7 @@
+type,name,id
+yolo5,yolov5s_fp32.tflite,https://drive.google.com/file/d/1jzmW1Kghjz9Vwxkz3SkWGHxtq8mdHthC/view?usp=sharing
+yolo5,yolov5s_int8_fallback.tflite,https://drive.google.com/file/d/1bplddhv76P8nK0AEOAZMebENk5wRYdiv/view?usp=sharing
+yolo5,yolov5s_int8_edgetpu.tflite,https://drive.google.com/file/d/1BnLLHIVzFYhepBBfgKXwVtc8W-qeuSYq/view?usp=sharing
+yolo5,yolov5s_int8.tflite,https://drive.google.com/file/d/1XWDIYNgYGxAlTuVD9YZmbfWyz4Kgvb1I/view?usp=sharing
+yolo5,yolov5s_fp16.tflite,https://drive.google.com/file/d/12FCdRtpcYciLhqn_5OvJQIngCPGck9Gp/view?usp=sharing
+yolo5,yolov5s_dr.tflite,https://drive.google.com/file/d/1kKx25q2AytLaocSpt0scCl_TGqqOjrYh/view?usp=sharing
