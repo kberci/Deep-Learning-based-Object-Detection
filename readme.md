@@ -10,7 +10,7 @@ The final project was made as the part of the Master of Science in Automation an
     - Jonathan Dyssel Stets: _Head of Vision Technology at ProInvent A/S_
     - Anders D. Henriksen: _Computer Vision Developer at ProInvent A/S_
 
-## Thesis abstract
+### Thesis abstract
 There is a rapidly increasing demand for smart cameras in the industry, however  
 the available devices are too expensive, have closed source software running in-  
 side and do not contain deep learning capabilities in most of the cases.
@@ -23,7 +23,7 @@ on multiple custom datasets with transfer learning. This would pave the way to-
 wards edge computing custom smart cameras with extended machine learning abili-  
 ties, focused on object detection.
 
-## Thesis summary
+### Thesis summary
 The aim of the thesis was to make deep learning available on low-cost edge devices as an alternative for smart cameras.
 
 A thorough research was made particularly focusing on the history of object detection networks to locate and understand the state-of-the-art models. Edge devices and the potential hardware solutions which are able to deploy deep neural networks were also discovered.
@@ -57,7 +57,7 @@ Tiny-YOLO v4 was found as the best model for fast and iterative training. It can
 
 Five state-of-the-art models are deployed and validated via transfer learning on two custom datasets. Suggested alternatives are made to replace the expensive and closed software structured smart cameras, therefore both major goals are satisfied.
 
-## Project structure
+# Project structure
 The structure of the repository follows the content of the report. There are three major folders which includes the needed scripts/notebooks to reproduce the results within the given section.
 
 1. **Conversion and quantization**: Conversion notebook files to get TensorFlow Lite models.
